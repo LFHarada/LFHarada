@@ -1,27 +1,42 @@
-## Olá, eu sou Lucas Harada
+## Hello World, my name is Lucas Harada
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UniCesumar e ex-estudante de Sistemas de Informação pela Universidade do Estado de Minas Gerais
+I'm a Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
 
-##
+Self-taught in Python and C Sharp through online learning platforms such as Udemy, Alura, DevMedia and Digital Inovation One.
+
+  ##
 
 <div align="center">
   <a href="https://github.com/lfharada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfharada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfharada&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfharada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfharada&layout=compact&langs_count=7&theme=nord"/>
 </div>
-
-##
- 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-
-##
   
-Meu nome é Lucas, tenho 20 anos e sou entusiasta da área de TI
+  ## LANGUAGES
+  
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
-Atualmente trabalho como técnico na minha própria empresa, dando assistência para empresas regionais e fazendo manutenções em computadores.
 
-Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas pela UniCesumar, cursei quarto semestres de Sistemas de Informação e três semestres de Engenharia Elétrica, ambos pela Universidade do Estado de Minas Gerais (UEMG).
+  ## FRAMEWORKS  
 
-Estudo C# e Python por conta própria com auxílio de plataformas online de aprendizado, como Udemy, DevMedia, Alura e Digital Inovation One.
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  
+  ## IDE
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  
+  ## PC SPECS
+  
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX3060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  
+  ## CONTACT
+  
+  <a href="https://www.linkedin.com/in/lucasfharada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://pt.stackoverflow.com/users/242556/lfharada" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasfigueiraharada@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.wa.me/5534999995190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
