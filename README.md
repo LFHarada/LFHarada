@@ -1,15 +1,15 @@
 ## Hello World, my name is Lucas Harada
 
-I'm a Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
+I'm a brazilian Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
 
 Self-taught in Python and C Sharp through online learning platforms such as Udemy, Alura, DevMedia and Digital Inovation One.
 
   ##
 
-<div align="left">
+<div align="justify">
   <a href="https://github.com/lfharada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfharada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfharada&layout=compact&langs_count=7&theme=nord"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lfharada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfharada&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
   ## LANGUAGES
