@@ -6,7 +6,7 @@ Self-taught in Python and C Sharp through online learning platforms such as Udem
 
   ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lfharada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfharada&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfharada&layout=compact&langs_count=7&theme=nord"/>
