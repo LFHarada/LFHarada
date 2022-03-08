@@ -14,25 +14,25 @@ Self-taught in Python and C Sharp through online learning platforms such as Udem
   
   ## LANGUAGES
   
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 
   ## FRAMEWORKS  
 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   
   ## IDE
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/PYCHARM-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   
   ## PC SPECS
   
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-RTX3060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD-RYZEN_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX 3060 TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/WINDOWS 11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/KALI LINUX-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   
   ## CONTACT
   
