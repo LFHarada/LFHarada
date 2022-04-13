@@ -1,6 +1,6 @@
 ## Hello World, my name is Lucas Harada
 
-I'm a brazilian Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
+I'm a brazillian Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
 
 Self-taught in Python and C Sharp through online learning platforms such as Udemy, Alura, DevMedia and Digital Inovation One.
 
