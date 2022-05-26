@@ -1,4 +1,4 @@
-## Hello World, my name is Lucas Figueira Harada
+## print('Hello World, my name is Lucas Figueira Harada')
 
 You can call me only Harada if you want, i'ts how my friends refer to me, and i already know that we're gonna be nice friends!
 
