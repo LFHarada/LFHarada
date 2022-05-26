@@ -1,10 +1,20 @@
-## print('Hello World, my name is Lucas Figueira Harada')
+# print('Hello World, my name is Lucas Figueira Harada')
 
+### Português
+Você pode me chamar apenas de Harada se quiser, é como meus amigos se referem a mim, e eu já sei que vamos ser bons amigos!
+
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cesumar (UniCesumar) e ex-aluno de Sistemas de Informação pela Universidade do Estado de Minas Gerais.
+
+Sou autodidata em Python, Desenvolvimento Web, Data Science, Machine Learning e  Cybersegurança através de plataformas de aprendizado online como Alura, FIAP, Udemy, Digital Inovation One e freeCodeCamp.
+
+Algumas das linguagens, frameworks, bancos de dados, softwares e ferramentas que ainda estou aprendendo ou estou realmente interessado em aprender estão listadas abaixo.
+
+### English
 You can call me only Harada if you want, i'ts how my friends refer to me, and i already know that we're gonna be nice friends!
 
 I'm a brazillian Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
 
-Self-taught in Python, Web Development, Data Science, Machine Learning and Penetration Testin through online learning platforms such as Udemy, Alura, DevMedia and Digital Inovation One.
+I'm self-taught in Python, Web Development, Data Science, Machine Learning and Penetration Testin through online learning platforms such as Alura, FIAP, Udemy, Digital Inovation One and freeCodeCamp.
 
 Some of the languages, frameworks, databases, softwares and tools listed down below i'm still learning or i'm really interested to learn.
 
