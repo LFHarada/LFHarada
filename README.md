@@ -73,6 +73,6 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   <a href="https://www.linkedin.com/in/lucasfharada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasfigueiraharada@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.wa.me/5534999995190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://telegram.me/LFHarada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"target="_blank"></a> 
+  <a href="https://telegram.me/LFHarada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
   
   ![Snake animation](https://github.com/LFHarada/LFHarada/blob/output/github-contribution-grid-snake.svg)
