@@ -13,7 +13,7 @@ Algumas das linguagens, frameworks, bancos de dados, softwares e ferramentas que
 You can call me only Harada if you want, i'ts how my friends refer to me, and i already know that we're gonna be nice friends!
 
 I'm a brazillian Analysis and Systems Development student at UniCesumar and former student of Information Systems at the University of the State of Minas Gerais.
-
+Cancel changes
 I'm self-taught in Python, Web Development, Data Science, Machine Learning and Penetration Testin through online learning platforms such as Alura, FIAP, Udemy, Digital Inovation One and freeCodeCamp.
 
 Some of the languages, frameworks, databases, softwares and tools listed down below i'm still learning or i'm really interested to learn.
@@ -40,9 +40,7 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   
   ## IDE'S, SOFTWARES AND TOOLS
   
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/PYCHARM-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
