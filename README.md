@@ -28,8 +28,7 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   
   ## LANGUAGES, FRAMEWORKS AND DATABASES
   
-  <img src="https://img.shields.io/badge/PYTHON-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -40,8 +39,7 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   
   ## IDE'S, SOFTWARES AND TOOLS
   
-  <img src="https://img.shields.io/badge/PYCHARM-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/PYCHARM-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -49,8 +47,7 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   
   ## ESPECIFICAÇÕES DO PC & SISTEMAS OPERACIONAIS | PC SPECS & OPERATIONAL SYSTEMS
   
-  <img src="https://img.shields.io/badge/AMD-RYZEN_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-RTX 3060 TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD-RYZEN_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-RTX 3060 TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/WINDOWS 11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/KALI LINUX-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white">
@@ -58,8 +55,7 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   
   ## SOCIAL MEDIA
   
-  <a href="https://www.linkedin.com/in/lucasfharada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/LFHarada" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasfharada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/LFHarada" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/LFHarada" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/242556/lfharada" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/LucasFHarada" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
@@ -67,8 +63,7 @@ Some of the languages, frameworks, databases, softwares and tools listed down be
   
   ## CONTACT
   
-  <a href="https://www.linkedin.com/in/lucasfharada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasfigueiraharada@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasfharada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:lucasfigueiraharada@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.wa.me/5534999995190" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://telegram.me/LFHarada" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
   
